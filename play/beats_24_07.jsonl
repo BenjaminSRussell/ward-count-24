@@ -835,3 +835,6 @@
 {"n":835,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the radio coil at the pier. Nobody past the east escape. We hold in 4 steps. Direct on the left lane, open."}
 {"n":836,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier east escape. Ivo keeps the radio coil for the hold. 5 steps, direct on the left lane, open."}
 {"n":837,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east escape. direct left open. 6 steps. The radio coil stays for the hold."}
+{"n":838,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at the pier. Nobody past the east escape. We hold in 7 steps. Direct on the left lane, open."}
+{"n":839,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier east escape. Bess keeps the radio coil for the hold. 8 steps, direct on the left lane, open."}
+{"n":840,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east escape. direct left open. 2 steps. The radio coil stays for the hold."}
