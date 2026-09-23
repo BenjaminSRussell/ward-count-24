@@ -25,3 +25,6 @@
 {"n":25,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line west escape. Nia keeps the rope for the hold. 8 steps, direct on the left lane, open."}
 {"n":26,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west escape. direct left open. 2 steps. The rope stays for the hold."}
 {"n":27,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rope at High line. Nobody past the west escape. We hold in 3 steps. Direct on the left lane, open."}
+{"n":28,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line west escape. Ivo keeps the rope for the hold. 4 steps, direct on the left lane, open."}
+{"n":29,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west escape. direct left open. 5 steps. The rope stays for the hold."}
+{"n":30,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at High line. Nobody past the west escape. We hold in 6 steps. Direct on the left lane, open."}
