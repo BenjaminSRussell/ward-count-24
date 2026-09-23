@@ -681,3 +681,6 @@
 {"n":681,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north court. direct left open. 3 steps. The radio coil stays for the hold."}
 {"n":682,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at Ward gate. Nobody past the north court. We hold in 4 steps. Direct on the left lane, open."}
 {"n":683,"kind":"place","name":"Ward gate north court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Ward gate north court. Bess keeps the radio coil for the hold. 5 steps, direct on the left lane, open."}
+{"n":684,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north court. direct left open. 6 steps. The radio coil stays for the hold."}
+{"n":685,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at Kessler alley. Nobody past the north court. We hold in 7 steps. Direct on the left lane, open."}
+{"n":686,"kind":"place","name":"Kessler alley north court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Kessler alley north court. Matt keeps the radio coil for the hold. 8 steps, direct on the left lane, open."}
