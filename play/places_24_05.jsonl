@@ -17,3 +17,6 @@
 {"n":17,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west escape. direct left open. 7 steps. The rope stays for the hold."}
 {"n":18,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at Drydock. Nobody past the west escape. We hold in 8 steps. Direct on the left lane, open."}
 {"n":19,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock west escape. Bess keeps the rope for the hold. 2 steps, direct on the left lane, open."}
+{"n":20,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west escape. direct left open. 3 steps. The rope stays for the hold."}
+{"n":21,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rope at High line. Nobody past the west escape. We hold in 4 steps. Direct on the left lane, open."}
+{"n":22,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line west escape. Matt keeps the rope for the hold. 5 steps, direct on the left lane, open."}
