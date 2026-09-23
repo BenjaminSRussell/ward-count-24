@@ -814,3 +814,6 @@
 {"n":814,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at Last Light. Nobody past the east escape. We hold in 4 steps. Direct on the left lane, open."}
 {"n":815,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Last Light east escape. Bess keeps the radio coil for the hold. 5 steps, direct on the left lane, open."}
 {"n":816,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, east escape. direct left open. 6 steps. The radio coil stays for the hold."}
+{"n":817,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at South stair. Nobody past the east escape. We hold in 7 steps. Direct on the left lane, open."}
+{"n":818,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"South stair east escape. Matt keeps the radio coil for the hold. 8 steps, direct on the left lane, open."}
+{"n":819,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, east escape. direct left open. 2 steps. The radio coil stays for the hold."}
