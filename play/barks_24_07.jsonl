@@ -728,3 +728,6 @@
 {"n":728,"kind":"place","name":"Ward gate east escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Ward gate east escape. Ivo keeps the radio coil for the hold. 2 steps, direct on the left lane, open."}
 {"n":729,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, east escape. direct left open. 3 steps. The radio coil stays for the hold."}
 {"n":730,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at Ward gate. Nobody past the east escape. We hold in 4 steps. Direct on the left lane, open."}
+{"n":731,"kind":"place","name":"Ward gate east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate east escape. Bess keeps the radio coil for the hold. 5 steps, direct on the left lane, open."}
+{"n":732,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, east escape. direct left open. 6 steps. The radio coil stays for the hold."}
+{"n":733,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at Kessler alley. Nobody past the east escape. We hold in 7 steps. Direct on the left lane, open."}
