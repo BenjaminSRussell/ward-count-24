@@ -470,3 +470,6 @@
 {"n":470,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light east escape. Matt keeps the drum for the hold. 3 steps, direct on the left lane, open."}
 {"n":471,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east escape. direct left open. 4 steps. The drum stays for the hold."}
 {"n":472,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the drum at Last Light. Nobody past the east escape. We hold in 5 steps. Direct on the left lane, open."}
+{"n":473,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Last Light east escape. Nia keeps the drum for the hold. 6 steps, direct on the left lane, open."}
+{"n":474,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, east escape. direct left open. 7 steps. The drum stays for the hold."}
+{"n":475,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Last Light. Nobody past the east escape. We hold in 8 steps. Direct on the left lane, open."}
