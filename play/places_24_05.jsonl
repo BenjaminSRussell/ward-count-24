@@ -125,3 +125,6 @@
 {"n":125,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, west escape. direct left open. 3 steps. The shutter stays for the hold."}
 {"n":126,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at Last Light. Nobody past the west escape. We hold in 4 steps. Direct on the left lane, open."}
 {"n":127,"kind":"place","name":"Last Light west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Last Light west escape. Bess keeps the shutter for the hold. 5 steps, direct on the left lane, open."}
+{"n":128,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, west escape. direct left open. 6 steps. The shutter stays for the hold."}
+{"n":129,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the shutter at South stair. Nobody past the west escape. We hold in 7 steps. Direct on the left lane, open."}
+{"n":130,"kind":"place","name":"South stair west escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"South stair west escape. Matt keeps the shutter for the hold. 8 steps, direct on the left lane, open."}
