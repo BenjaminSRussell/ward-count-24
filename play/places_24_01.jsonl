@@ -189,3 +189,6 @@
 {"n":189,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north court. direct left open. 8 steps. The awning stays for the hold."}
 {"n":190,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the awning at Kessler alley. Nobody past the north court. We hold in 2 steps. Direct on the left lane, open."}
 {"n":191,"kind":"place","name":"Kessler alley north court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley north court. Bess keeps the awning for the hold. 3 steps, direct on the left lane, open."}
+{"n":192,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north court. direct left open. 4 steps. The awning stays for the hold."}
+{"n":193,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the awning at the Lot. Nobody past the north court. We hold in 5 steps. Direct on the left lane, open."}
+{"n":194,"kind":"place","name":"the Lot north court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot north court. Matt keeps the awning for the hold. 6 steps, direct on the left lane, open."}
