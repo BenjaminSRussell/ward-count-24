@@ -842,3 +842,6 @@
 {"n":842,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west escape. direct left open. 6 steps. The radio coil stays for the hold."}
 {"n":843,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the radio coil at Switchyard. Nobody past the west escape. We hold in 7 steps. Direct on the left lane, open."}
 {"n":844,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Switchyard west escape. Ivo keeps the radio coil for the hold. 8 steps, direct on the left lane, open."}
+{"n":845,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west escape. direct left open. 2 steps. The radio coil stays for the hold."}
+{"n":846,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at Switchyard. Nobody past the west escape. We hold in 3 steps. Direct on the left lane, open."}
+{"n":847,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard west escape. Bess keeps the radio coil for the hold. 4 steps, direct on the left lane, open."}
