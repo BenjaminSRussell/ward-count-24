@@ -194,3 +194,6 @@
 {"n":194,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north escape. direct left open. 6 steps. The hydrant stays for the hold."}
 {"n":195,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at Switchyard. Nobody past the north escape. We hold in 7 steps. Direct on the left lane, open."}
 {"n":196,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard north escape. Ivo keeps the hydrant for the hold. 8 steps, direct on the left lane, open."}
+{"n":197,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north escape. direct left open. 2 steps. The hydrant stays for the hold."}
+{"n":198,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Switchyard. Nobody past the north escape. We hold in 3 steps. Direct on the left lane, open."}
+{"n":199,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard north escape. Bess keeps the hydrant for the hold. 4 steps, direct on the left lane, open."}
