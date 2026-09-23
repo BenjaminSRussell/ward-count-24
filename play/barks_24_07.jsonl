@@ -356,3 +356,6 @@
 {"n":356,"kind":"place","name":"Switchyard east escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard east escape. Ivo keeps the awning for the hold. 8 steps, direct on the left lane, open."}
 {"n":357,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east escape. direct left open. 2 steps. The awning stays for the hold."}
 {"n":358,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the awning at Switchyard. Nobody past the east escape. We hold in 3 steps. Direct on the left lane, open."}
+{"n":359,"kind":"place","name":"Switchyard east escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard east escape. Bess keeps the awning for the hold. 4 steps, direct on the left lane, open."}
+{"n":360,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east escape. direct left open. 5 steps. The awning stays for the hold."}
+{"n":361,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the awning at Drydock. Nobody past the east escape. We hold in 6 steps. Direct on the left lane, open."}
