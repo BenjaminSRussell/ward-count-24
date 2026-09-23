@@ -842,3 +842,6 @@
 {"n":842,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, north escape. direct left open. 3 steps. The rebar stays for the hold."}
 {"n":843,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rebar at the pier. Nobody past the north escape. We hold in 4 steps. Direct on the left lane, open."}
 {"n":844,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier north escape. Ivo keeps the rebar for the hold. 5 steps, direct on the left lane, open."}
+{"n":845,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north escape. direct left open. 6 steps. The rebar stays for the hold."}
+{"n":846,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at the pier. Nobody past the north escape. We hold in 7 steps. Direct on the left lane, open."}
+{"n":847,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier north escape. Bess keeps the rebar for the hold. 8 steps, direct on the left lane, open."}
