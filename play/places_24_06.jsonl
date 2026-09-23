@@ -313,3 +313,6 @@
 {"n":313,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east escape. direct left open. 8 steps. The barrel stays for the hold."}
 {"n":314,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at South stair. Nobody past the east escape. We hold in 2 steps. Direct on the left lane, open."}
 {"n":315,"kind":"place","name":"South stair east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"South stair east escape. Bess keeps the barrel for the hold. 3 steps, direct on the left lane, open."}
+{"n":316,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east escape. direct left open. 4 steps. The barrel stays for the hold."}
+{"n":317,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the barrel at the pier. Nobody past the east escape. We hold in 5 steps. Direct on the left lane, open."}
+{"n":318,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the pier east escape. Matt keeps the barrel for the hold. 6 steps, direct on the left lane, open."}
