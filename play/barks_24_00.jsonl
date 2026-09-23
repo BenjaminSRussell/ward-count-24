@@ -669,3 +669,6 @@
 {"n":669,"kind":"place","name":"Ward gate north court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Ward gate north court. Nia keeps the rebar for the hold. 6 steps, direct on the left lane, open."}
 {"n":670,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, north court. direct left open. 7 steps. The rebar stays for the hold."}
 {"n":671,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rebar at Ward gate. Nobody past the north court. We hold in 8 steps. Direct on the left lane, open."}
+{"n":672,"kind":"place","name":"Ward gate north court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Ward gate north court. Ivo keeps the rebar for the hold. 2 steps, direct on the left lane, open."}
+{"n":673,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north court. direct left open. 3 steps. The rebar stays for the hold."}
+{"n":674,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at Ward gate. Nobody past the north court. We hold in 4 steps. Direct on the left lane, open."}
