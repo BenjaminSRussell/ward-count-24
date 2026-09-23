@@ -614,3 +614,6 @@
 {"n":614,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at Stockyard fence. Nobody past the north escape. We hold in 5 steps. Direct on the left lane, open."}
 {"n":615,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence north escape. Bess keeps the badge door for the hold. 6 steps, direct on the left lane, open."}
 {"n":616,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north escape. direct left open. 7 steps. The badge door stays for the hold."}
+{"n":617,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at Mall court. Nobody past the north escape. We hold in 8 steps. Direct on the left lane, open."}
+{"n":618,"kind":"place","name":"Mall court north escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mall court north escape. Matt keeps the badge door for the hold. 2 steps, direct on the left lane, open."}
+{"n":619,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, north escape. direct left open. 3 steps. The badge door stays for the hold."}
