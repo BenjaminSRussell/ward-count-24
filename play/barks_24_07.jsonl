@@ -296,3 +296,6 @@
 {"n":296,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard east escape. Ivo keeps the awning for the hold. 4 steps, direct on the left lane, open."}
 {"n":297,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east escape. direct left open. 5 steps. The awning stays for the hold."}
 {"n":298,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the awning at Mast yard. Nobody past the east escape. We hold in 6 steps. Direct on the left lane, open."}
+{"n":299,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard east escape. Bess keeps the awning for the hold. 7 steps, direct on the left lane, open."}
+{"n":300,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east escape. direct left open. 8 steps. The awning stays for the hold."}
+{"n":301,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the awning at Last Light. Nobody past the east escape. We hold in 2 steps. Direct on the left lane, open."}
