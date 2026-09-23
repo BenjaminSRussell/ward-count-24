@@ -287,3 +287,6 @@
 {"n":287,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the barrel at Mast yard. Nobody past the east escape. We hold in 3 steps. Direct on the left lane, open."}
 {"n":288,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard east escape. Ivo keeps the barrel for the hold. 4 steps, direct on the left lane, open."}
 {"n":289,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east escape. direct left open. 5 steps. The barrel stays for the hold."}
+{"n":290,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at Mast yard. Nobody past the east escape. We hold in 6 steps. Direct on the left lane, open."}
+{"n":291,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard east escape. Bess keeps the barrel for the hold. 7 steps, direct on the left lane, open."}
+{"n":292,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east escape. direct left open. 8 steps. The barrel stays for the hold."}
