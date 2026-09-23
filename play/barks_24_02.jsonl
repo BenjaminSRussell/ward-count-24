@@ -184,3 +184,6 @@
 {"n":184,"kind":"place","name":"Ward gate south court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Ward gate south court. Ivo keeps the barrel for the hold. 2 steps, direct on the left lane, open."}
 {"n":185,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south court. direct left open. 3 steps. The barrel stays for the hold."}
 {"n":186,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at Ward gate. Nobody past the south court. We hold in 4 steps. Direct on the left lane, open."}
+{"n":187,"kind":"place","name":"Ward gate south court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Ward gate south court. Bess keeps the barrel for the hold. 5 steps, direct on the left lane, open."}
+{"n":188,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south court. direct left open. 6 steps. The barrel stays for the hold."}
+{"n":189,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the barrel at Kessler alley. Nobody past the south court. We hold in 7 steps. Direct on the left lane, open."}
