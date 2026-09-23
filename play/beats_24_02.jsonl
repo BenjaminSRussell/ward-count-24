@@ -219,3 +219,6 @@
 {"n":219,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the barrel at Stockyard fence. Nobody past the south court. We hold in 2 steps. Direct on the left lane, open."}
 {"n":220,"kind":"place","name":"Stockyard fence south court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Stockyard fence south court. Ivo keeps the barrel for the hold. 3 steps, direct on the left lane, open."}
 {"n":221,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south court. direct left open. 4 steps. The barrel stays for the hold."}
+{"n":222,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at Stockyard fence. Nobody past the south court. We hold in 5 steps. Direct on the left lane, open."}
+{"n":223,"kind":"place","name":"Stockyard fence south court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Stockyard fence south court. Bess keeps the barrel for the hold. 6 steps, direct on the left lane, open."}
+{"n":224,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south court. direct left open. 7 steps. The barrel stays for the hold."}
