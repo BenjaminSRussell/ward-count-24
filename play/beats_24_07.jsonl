@@ -691,3 +691,6 @@
 {"n":691,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the badge door at Switchyard. Nobody past the east escape. We hold in 7 steps. Direct on the left lane, open."}
 {"n":692,"kind":"place","name":"Switchyard east escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Switchyard east escape. Ivo keeps the badge door for the hold. 8 steps, direct on the left lane, open."}
 {"n":693,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east escape. direct left open. 2 steps. The badge door stays for the hold."}
+{"n":694,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at Switchyard. Nobody past the east escape. We hold in 3 steps. Direct on the left lane, open."}
+{"n":695,"kind":"place","name":"Switchyard east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard east escape. Bess keeps the badge door for the hold. 4 steps, direct on the left lane, open."}
+{"n":696,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east escape. direct left open. 5 steps. The badge door stays for the hold."}
