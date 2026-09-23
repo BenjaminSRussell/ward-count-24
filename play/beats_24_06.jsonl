@@ -83,3 +83,6 @@
 {"n":83,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at Stockyard fence. Nobody past the east escape. We hold in 2 steps. Direct on the left lane, open."}
 {"n":84,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Stockyard fence east escape. Ivo keeps the hydrant for the hold. 3 steps, direct on the left lane, open."}
 {"n":85,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east escape. direct left open. 4 steps. The hydrant stays for the hold."}
+{"n":86,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Stockyard fence. Nobody past the east escape. We hold in 5 steps. Direct on the left lane, open."}
+{"n":87,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Stockyard fence east escape. Bess keeps the hydrant for the hold. 6 steps, direct on the left lane, open."}
+{"n":88,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east escape. direct left open. 7 steps. The hydrant stays for the hold."}
