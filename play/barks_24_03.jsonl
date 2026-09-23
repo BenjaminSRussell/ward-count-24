@@ -549,3 +549,6 @@
 {"n":549,"kind":"place","name":"the Lot south court","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot south court. Nia keeps the badge door for the hold. 2 steps, direct on the left lane, open."}
 {"n":550,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south court. direct left open. 3 steps. The badge door stays for the hold."}
 {"n":551,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the badge door at the Lot. Nobody past the south court. We hold in 4 steps. Direct on the left lane, open."}
+{"n":552,"kind":"place","name":"the Lot south court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot south court. Ivo keeps the badge door for the hold. 5 steps, direct on the left lane, open."}
+{"n":553,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south court. direct left open. 6 steps. The badge door stays for the hold."}
+{"n":554,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at the Lot. Nobody past the south court. We hold in 7 steps. Direct on the left lane, open."}
