@@ -789,3 +789,6 @@
 {"n":789,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east escape. direct left open. 7 steps. The radio coil stays for the hold."}
 {"n":790,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at the Underpass. Nobody past the east escape. We hold in 8 steps. Direct on the left lane, open."}
 {"n":791,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Underpass east escape. Bess keeps the radio coil for the hold. 2 steps, direct on the left lane, open."}
+{"n":792,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east escape. direct left open. 3 steps. The radio coil stays for the hold."}
+{"n":793,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at Mast yard. Nobody past the east escape. We hold in 4 steps. Direct on the left lane, open."}
+{"n":794,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mast yard east escape. Matt keeps the radio coil for the hold. 5 steps, direct on the left lane, open."}
