@@ -974,3 +974,6 @@
 {"n":974,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north escape. direct left open. 2 steps. The rope stays for the hold."}
 {"n":975,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rope at Mast yard. Nobody past the north escape. We hold in 3 steps. Direct on the left lane, open."}
 {"n":976,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard north escape. Ivo keeps the rope for the hold. 4 steps, direct on the left lane, open."}
+{"n":977,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north escape. direct left open. 5 steps. The rope stays for the hold."}
+{"n":978,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at Mast yard. Nobody past the north escape. We hold in 6 steps. Direct on the left lane, open."}
+{"n":979,"kind":"place","name":"Mast yard north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard north escape. Bess keeps the rope for the hold. 7 steps, direct on the left lane, open."}
