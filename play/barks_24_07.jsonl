@@ -890,3 +890,6 @@
 {"n":890,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate north escape. Matt keeps the plywood for the hold. 3 steps, direct on the left lane, open."}
 {"n":891,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north escape. direct left open. 4 steps. The plywood stays for the hold."}
 {"n":892,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the plywood at Ward gate. Nobody past the north escape. We hold in 5 steps. Direct on the left lane, open."}
+{"n":893,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Ward gate north escape. Nia keeps the plywood for the hold. 6 steps, direct on the left lane, open."}
+{"n":894,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, north escape. direct left open. 7 steps. The plywood stays for the hold."}
+{"n":895,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the plywood at Ward gate. Nobody past the north escape. We hold in 8 steps. Direct on the left lane, open."}
