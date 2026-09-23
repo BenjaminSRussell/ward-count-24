@@ -2,3 +2,6 @@
 {"n":2,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Ward gate. Nobody past the north court. We hold in 4 steps. Direct on the left lane, open."}
 {"n":3,"kind":"place","name":"Ward gate north court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Ward gate north court. Bess keeps the hydrant for the hold. 5 steps, direct on the left lane, open."}
 {"n":4,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north court. direct left open. 6 steps. The hydrant stays for the hold."}
+{"n":5,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the hydrant at Kessler alley. Nobody past the north court. We hold in 7 steps. Direct on the left lane, open."}
+{"n":6,"kind":"place","name":"Kessler alley north court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Kessler alley north court. Matt keeps the hydrant for the hold. 8 steps, direct on the left lane, open."}
+{"n":7,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north court. direct left open. 2 steps. The hydrant stays for the hold."}
