@@ -293,3 +293,6 @@
 {"n":293,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the barrel at Last Light. Nobody past the east escape. We hold in 2 steps. Direct on the left lane, open."}
 {"n":294,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Last Light east escape. Matt keeps the barrel for the hold. 3 steps, direct on the left lane, open."}
 {"n":295,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east escape. direct left open. 4 steps. The barrel stays for the hold."}
+{"n":296,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the barrel at Last Light. Nobody past the east escape. We hold in 5 steps. Direct on the left lane, open."}
+{"n":297,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Last Light east escape. Nia keeps the barrel for the hold. 6 steps, direct on the left lane, open."}
+{"n":298,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, east escape. direct left open. 7 steps. The barrel stays for the hold."}
