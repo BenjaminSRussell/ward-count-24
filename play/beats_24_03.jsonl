@@ -119,3 +119,6 @@
 {"n":119,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the shutter at South stair. Nobody past the south court. We hold in 6 steps. Direct on the left lane, open."}
 {"n":120,"kind":"place","name":"South stair south court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair south court. Ivo keeps the shutter for the hold. 7 steps, direct on the left lane, open."}
 {"n":121,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south court. direct left open. 8 steps. The shutter stays for the hold."}
+{"n":122,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at South stair. Nobody past the south court. We hold in 2 steps. Direct on the left lane, open."}
+{"n":123,"kind":"place","name":"South stair south court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair south court. Bess keeps the shutter for the hold. 3 steps, direct on the left lane, open."}
+{"n":124,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south court. direct left open. 4 steps. The shutter stays for the hold."}
