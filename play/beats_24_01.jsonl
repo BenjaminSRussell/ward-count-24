@@ -370,3 +370,6 @@
 {"n":370,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at the Lot. Nobody past the north court. We hold in 7 steps. Direct on the left lane, open."}
 {"n":371,"kind":"place","name":"the Lot north court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot north court. Bess keeps the drum for the hold. 8 steps, direct on the left lane, open."}
 {"n":372,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north court. direct left open. 2 steps. The drum stays for the hold."}
+{"n":373,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the drum at Stockyard fence. Nobody past the north court. We hold in 3 steps. Direct on the left lane, open."}
+{"n":374,"kind":"place","name":"Stockyard fence north court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence north court. Matt keeps the drum for the hold. 4 steps, direct on the left lane, open."}
+{"n":375,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, north court. direct left open. 5 steps. The drum stays for the hold."}
