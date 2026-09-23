@@ -235,3 +235,6 @@
 {"n":235,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the awning at the Underpass. Nobody past the north court. We hold in 5 steps. Direct on the left lane, open."}
 {"n":236,"kind":"place","name":"the Underpass north court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass north court. Ivo keeps the awning for the hold. 6 steps, direct on the left lane, open."}
 {"n":237,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north court. direct left open. 7 steps. The awning stays for the hold."}
+{"n":238,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the awning at the Underpass. Nobody past the north court. We hold in 8 steps. Direct on the left lane, open."}
+{"n":239,"kind":"place","name":"the Underpass north court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Underpass north court. Bess keeps the awning for the hold. 2 steps, direct on the left lane, open."}
+{"n":240,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north court. direct left open. 3 steps. The awning stays for the hold."}
