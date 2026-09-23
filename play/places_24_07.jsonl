@@ -138,3 +138,6 @@
 {"n":138,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, east escape. direct left open. 7 steps. The shutter stays for the hold."}
 {"n":139,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the shutter at Last Light. Nobody past the east escape. We hold in 8 steps. Direct on the left lane, open."}
 {"n":140,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Last Light east escape. Ivo keeps the shutter for the hold. 2 steps, direct on the left lane, open."}
+{"n":141,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, east escape. direct left open. 3 steps. The shutter stays for the hold."}
+{"n":142,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at Last Light. Nobody past the east escape. We hold in 4 steps. Direct on the left lane, open."}
+{"n":143,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Last Light east escape. Bess keeps the shutter for the hold. 5 steps, direct on the left lane, open."}
