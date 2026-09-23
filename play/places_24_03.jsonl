@@ -853,3 +853,6 @@
 {"n":853,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south court. direct left open. 5 steps. The radio coil stays for the hold."}
 {"n":854,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at High line. Nobody past the south court. We hold in 6 steps. Direct on the left lane, open."}
 {"n":855,"kind":"place","name":"High line south court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line south court. Bess keeps the radio coil for the hold. 7 steps, direct on the left lane, open."}
+{"n":856,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south court. direct left open. 8 steps. The radio coil stays for the hold."}
+{"n":857,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at Ward gate. Nobody past the west escape. We hold in 2 steps. Direct on the left lane, open."}
+{"n":858,"kind":"place","name":"Ward gate west escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Ward gate west escape. Matt keeps the plywood for the hold. 3 steps, direct on the left lane, open."}
