@@ -992,3 +992,6 @@
 {"n":992,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock south court. Ivo keeps the plywood for the hold. 6 steps, direct on the left lane, open."}
 {"n":993,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south court. direct left open. 7 steps. The plywood stays for the hold."}
 {"n":994,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at Drydock. Nobody past the south court. We hold in 8 steps. Direct on the left lane, open."}
+{"n":995,"kind":"place","name":"Drydock south court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Drydock south court. Bess keeps the plywood for the hold. 2 steps, direct on the left lane, open."}
+{"n":996,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south court. direct left open. 3 steps. The plywood stays for the hold."}
+{"n":997,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at High line. Nobody past the south court. We hold in 4 steps. Direct on the left lane, open."}
