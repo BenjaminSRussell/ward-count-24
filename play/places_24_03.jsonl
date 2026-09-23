@@ -217,3 +217,6 @@
 {"n":217,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south court. direct left open. 6 steps. The awning stays for the hold."}
 {"n":218,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the awning at the Lot. Nobody past the south court. We hold in 7 steps. Direct on the left lane, open."}
 {"n":219,"kind":"place","name":"the Lot south court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot south court. Bess keeps the awning for the hold. 8 steps, direct on the left lane, open."}
+{"n":220,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south court. direct left open. 2 steps. The awning stays for the hold."}
+{"n":221,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the awning at Stockyard fence. Nobody past the south court. We hold in 3 steps. Direct on the left lane, open."}
+{"n":222,"kind":"place","name":"Stockyard fence south court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence south court. Matt keeps the awning for the hold. 4 steps, direct on the left lane, open."}
