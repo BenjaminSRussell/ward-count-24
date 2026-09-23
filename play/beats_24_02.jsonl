@@ -846,3 +846,6 @@
 {"n":846,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at High line. Nobody past the south court. We hold in 6 steps. Direct on the left lane, open."}
 {"n":847,"kind":"place","name":"High line south court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line south court. Bess keeps the rebar for the hold. 7 steps, direct on the left lane, open."}
 {"n":848,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south court. direct left open. 8 steps. The rebar stays for the hold."}
+{"n":849,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rope at Ward gate. Nobody past the south court. We hold in 2 steps. Direct on the left lane, open."}
+{"n":850,"kind":"place","name":"Ward gate south court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate south court. Matt keeps the rope for the hold. 3 steps, direct on the left lane, open."}
+{"n":851,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south court. direct left open. 4 steps. The rope stays for the hold."}
