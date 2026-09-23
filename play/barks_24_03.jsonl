@@ -201,3 +201,6 @@
 {"n":201,"kind":"place","name":"Kessler alley south court","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Kessler alley south court. Nia keeps the awning for the hold. 4 steps, direct on the left lane, open."}
 {"n":202,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south court. direct left open. 5 steps. The awning stays for the hold."}
 {"n":203,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the awning at Kessler alley. Nobody past the south court. We hold in 6 steps. Direct on the left lane, open."}
+{"n":204,"kind":"place","name":"Kessler alley south court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley south court. Ivo keeps the awning for the hold. 7 steps, direct on the left lane, open."}
+{"n":205,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south court. direct left open. 8 steps. The awning stays for the hold."}
+{"n":206,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the awning at Kessler alley. Nobody past the south court. We hold in 2 steps. Direct on the left lane, open."}
