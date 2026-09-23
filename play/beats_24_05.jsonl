@@ -558,3 +558,6 @@
 {"n":558,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at Kessler alley. Nobody past the west escape. We hold in 2 steps. Direct on the left lane, open."}
 {"n":559,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley west escape. Bess keeps the badge door for the hold. 3 steps, direct on the left lane, open."}
 {"n":560,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west escape. direct left open. 4 steps. The badge door stays for the hold."}
+{"n":561,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at the Lot. Nobody past the west escape. We hold in 5 steps. Direct on the left lane, open."}
+{"n":562,"kind":"place","name":"the Lot west escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot west escape. Matt keeps the badge door for the hold. 6 steps, direct on the left lane, open."}
+{"n":563,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, west escape. direct left open. 7 steps. The badge door stays for the hold."}
