@@ -945,3 +945,6 @@
 {"n":945,"kind":"place","name":"Stockyard fence south escape","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence south escape. Nia keeps the plywood for the hold. 7 steps, direct on the left lane, open."}
 {"n":946,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south escape. direct left open. 8 steps. The plywood stays for the hold."}
 {"n":947,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the plywood at Stockyard fence. Nobody past the south escape. We hold in 2 steps. Direct on the left lane, open."}
+{"n":948,"kind":"place","name":"Stockyard fence south escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence south escape. Ivo keeps the plywood for the hold. 3 steps, direct on the left lane, open."}
+{"n":949,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south escape. direct left open. 4 steps. The plywood stays for the hold."}
+{"n":950,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at Stockyard fence. Nobody past the south escape. We hold in 5 steps. Direct on the left lane, open."}
