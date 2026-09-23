@@ -89,3 +89,6 @@
 {"n":89,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north escape. direct left open. 6 steps. The hydrant stays for the hold."}
 {"n":90,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at the Lot. Nobody past the north escape. We hold in 7 steps. Direct on the left lane, open."}
 {"n":91,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot north escape. Bess keeps the hydrant for the hold. 8 steps, direct on the left lane, open."}
+{"n":92,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north escape. direct left open. 2 steps. The hydrant stays for the hold."}
+{"n":93,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the hydrant at Stockyard fence. Nobody past the north escape. We hold in 3 steps. Direct on the left lane, open."}
+{"n":94,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence north escape. Matt keeps the hydrant for the hold. 4 steps, direct on the left lane, open."}
