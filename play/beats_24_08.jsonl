@@ -507,3 +507,6 @@
 {"n":507,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the crate at the pier. Nobody past the north escape. We hold in 4 steps. Direct on the left lane, open."}
 {"n":508,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier north escape. Ivo keeps the crate for the hold. 5 steps, direct on the left lane, open."}
 {"n":509,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north escape. direct left open. 6 steps. The crate stays for the hold."}
+{"n":510,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at the pier. Nobody past the north escape. We hold in 7 steps. Direct on the left lane, open."}
+{"n":511,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier north escape. Bess keeps the crate for the hold. 8 steps, direct on the left lane, open."}
+{"n":512,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north escape. direct left open. 2 steps. The crate stays for the hold."}
