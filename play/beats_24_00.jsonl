@@ -236,3 +236,6 @@
 {"n":236,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the barrel at Mast yard. Nobody past the north court. We hold in 7 steps. Direct on the left lane, open."}
 {"n":237,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mast yard north court. Nia keeps the barrel for the hold. 8 steps, direct on the left lane, open."}
 {"n":238,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, north court. direct left open. 2 steps. The barrel stays for the hold."}
+{"n":239,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the barrel at Mast yard. Nobody past the north court. We hold in 3 steps. Direct on the left lane, open."}
+{"n":240,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mast yard north court. Ivo keeps the barrel for the hold. 4 steps, direct on the left lane, open."}
+{"n":241,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north court. direct left open. 5 steps. The barrel stays for the hold."}
