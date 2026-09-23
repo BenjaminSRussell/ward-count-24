@@ -734,3 +734,6 @@
 {"n":734,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at Kessler alley. Nobody past the east escape. We hold in 2 steps. Direct on the left lane, open."}
 {"n":735,"kind":"place","name":"Kessler alley east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley east escape. Bess keeps the rebar for the hold. 3 steps, direct on the left lane, open."}
 {"n":736,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east escape. direct left open. 4 steps. The rebar stays for the hold."}
+{"n":737,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rebar at the Lot. Nobody past the east escape. We hold in 5 steps. Direct on the left lane, open."}
+{"n":738,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Lot east escape. Matt keeps the rebar for the hold. 6 steps, direct on the left lane, open."}
+{"n":739,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east escape. direct left open. 7 steps. The rebar stays for the hold."}
