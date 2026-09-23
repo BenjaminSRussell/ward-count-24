@@ -12,3 +12,6 @@
 {"n":12,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the pier north escape. Ivo keeps the rope for the hold. 5 steps, direct on the left lane, open."}
 {"n":13,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north escape. direct left open. 6 steps. The rope stays for the hold."}
 {"n":14,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at the pier. Nobody past the north escape. We hold in 7 steps. Direct on the left lane, open."}
+{"n":15,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier north escape. Bess keeps the rope for the hold. 8 steps, direct on the left lane, open."}
+{"n":16,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north escape. direct left open. 2 steps. The rope stays for the hold."}
+{"n":17,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rope at Clinic roof. Nobody past the north escape. We hold in 3 steps. Direct on the left lane, open."}
