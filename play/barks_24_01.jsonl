@@ -695,3 +695,6 @@
 {"n":695,"kind":"place","name":"Kessler alley north court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley north court. Bess keeps the radio coil for the hold. 3 steps, direct on the left lane, open."}
 {"n":696,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north court. direct left open. 4 steps. The radio coil stays for the hold."}
 {"n":697,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at the Lot. Nobody past the north court. We hold in 5 steps. Direct on the left lane, open."}
+{"n":698,"kind":"place","name":"the Lot north court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"the Lot north court. Matt keeps the radio coil for the hold. 6 steps, direct on the left lane, open."}
+{"n":699,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north court. direct left open. 7 steps. The radio coil stays for the hold."}
+{"n":700,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the radio coil at the Lot. Nobody past the north court. We hold in 8 steps. Direct on the left lane, open."}
