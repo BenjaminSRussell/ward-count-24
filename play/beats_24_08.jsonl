@@ -543,3 +543,6 @@
 {"n":543,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the crate at Drydock. Nobody past the north escape. We hold in 5 steps. Direct on the left lane, open."}
 {"n":544,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Drydock north escape. Ivo keeps the crate for the hold. 6 steps, direct on the left lane, open."}
 {"n":545,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north escape. direct left open. 7 steps. The crate stays for the hold."}
+{"n":546,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at Drydock. Nobody past the north escape. We hold in 8 steps. Direct on the left lane, open."}
+{"n":547,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock north escape. Bess keeps the crate for the hold. 2 steps, direct on the left lane, open."}
+{"n":548,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north escape. direct left open. 3 steps. The crate stays for the hold."}
