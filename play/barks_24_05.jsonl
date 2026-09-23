@@ -76,3 +76,6 @@
 {"n":76,"kind":"place","name":"Stockyard fence west escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence west escape. Ivo keeps the shutter for the hold. 3 steps, direct on the left lane, open."}
 {"n":77,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west escape. direct left open. 4 steps. The shutter stays for the hold."}
 {"n":78,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at Stockyard fence. Nobody past the west escape. We hold in 5 steps. Direct on the left lane, open."}
+{"n":79,"kind":"place","name":"Stockyard fence west escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Stockyard fence west escape. Bess keeps the shutter for the hold. 6 steps, direct on the left lane, open."}
+{"n":80,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west escape. direct left open. 7 steps. The shutter stays for the hold."}
+{"n":81,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the shutter at Mall court. Nobody past the west escape. We hold in 8 steps. Direct on the left lane, open."}
