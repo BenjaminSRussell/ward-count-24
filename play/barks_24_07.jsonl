@@ -128,3 +128,6 @@
 {"n":128,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mast yard east escape. Ivo keeps the shutter for the hold. 4 steps, direct on the left lane, open."}
 {"n":129,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east escape. direct left open. 5 steps. The shutter stays for the hold."}
 {"n":130,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at Mast yard. Nobody past the east escape. We hold in 6 steps. Direct on the left lane, open."}
+{"n":131,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mast yard east escape. Bess keeps the shutter for the hold. 7 steps, direct on the left lane, open."}
+{"n":132,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east escape. direct left open. 8 steps. The shutter stays for the hold."}
+{"n":133,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the shutter at Last Light. Nobody past the east escape. We hold in 2 steps. Direct on the left lane, open."}
