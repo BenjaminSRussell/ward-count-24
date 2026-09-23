@@ -453,3 +453,6 @@
 {"n":453,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard east escape. Nia keeps the crate for the hold. 8 steps, direct on the left lane, open."}
 {"n":454,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east escape. direct left open. 2 steps. The crate stays for the hold."}
 {"n":455,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the crate at Mast yard. Nobody past the east escape. We hold in 3 steps. Direct on the left lane, open."}
+{"n":456,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard east escape. Ivo keeps the crate for the hold. 4 steps, direct on the left lane, open."}
+{"n":457,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east escape. direct left open. 5 steps. The crate stays for the hold."}
+{"n":458,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at Mast yard. Nobody past the east escape. We hold in 6 steps. Direct on the left lane, open."}
