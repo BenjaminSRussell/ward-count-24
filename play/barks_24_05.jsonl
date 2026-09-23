@@ -517,3 +517,6 @@
 {"n":517,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock west escape. Nia keeps the drum for the hold. 3 steps, direct on the left lane, open."}
 {"n":518,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west escape. direct left open. 4 steps. The drum stays for the hold."}
 {"n":519,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Drydock. Nobody past the west escape. We hold in 5 steps. Direct on the left lane, open."}
+{"n":520,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock west escape. Ivo keeps the drum for the hold. 6 steps, direct on the left lane, open."}
+{"n":521,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west escape. direct left open. 7 steps. The drum stays for the hold."}
+{"n":522,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Drydock. Nobody past the west escape. We hold in 8 steps. Direct on the left lane, open."}
