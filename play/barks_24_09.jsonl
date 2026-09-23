@@ -432,3 +432,6 @@
 {"n":432,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot north escape. Ivo keeps the drum for the hold. 5 steps, direct on the left lane, open."}
 {"n":433,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north escape. direct left open. 6 steps. The drum stays for the hold."}
 {"n":434,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at the Lot. Nobody past the north escape. We hold in 7 steps. Direct on the left lane, open."}
+{"n":435,"kind":"place","name":"the Lot north escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot north escape. Bess keeps the drum for the hold. 8 steps, direct on the left lane, open."}
+{"n":436,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north escape. direct left open. 2 steps. The drum stays for the hold."}
+{"n":437,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the drum at Stockyard fence. Nobody past the north escape. We hold in 3 steps. Direct on the left lane, open."}
