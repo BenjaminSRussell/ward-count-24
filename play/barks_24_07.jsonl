@@ -884,3 +884,6 @@
 {"n":884,"kind":"place","name":"High line east escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line east escape. Ivo keeps the radio coil for the hold. 4 steps, direct on the left lane, open."}
 {"n":885,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east escape. direct left open. 5 steps. The radio coil stays for the hold."}
 {"n":886,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at High line. Nobody past the east escape. We hold in 6 steps. Direct on the left lane, open."}
+{"n":887,"kind":"place","name":"High line east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line east escape. Bess keeps the radio coil for the hold. 7 steps, direct on the left lane, open."}
+{"n":888,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east escape. direct left open. 8 steps. The radio coil stays for the hold."}
+{"n":889,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at Ward gate. Nobody past the north escape. We hold in 2 steps. Direct on the left lane, open."}
