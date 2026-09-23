@@ -622,3 +622,6 @@
 {"n":622,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, north court. direct left open. 8 steps. The lamp stays for the hold."}
 {"n":623,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the lamp at Clinic roof. Nobody past the north court. We hold in 2 steps. Direct on the left lane, open."}
 {"n":624,"kind":"place","name":"Clinic roof north court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof north court. Ivo keeps the lamp for the hold. 3 steps, direct on the left lane, open."}
+{"n":625,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north court. direct left open. 4 steps. The lamp stays for the hold."}
+{"n":626,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at Clinic roof. Nobody past the north court. We hold in 5 steps. Direct on the left lane, open."}
+{"n":627,"kind":"place","name":"Clinic roof north court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof north court. Bess keeps the lamp for the hold. 6 steps, direct on the left lane, open."}
