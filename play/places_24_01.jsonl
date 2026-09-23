@@ -585,3 +585,6 @@
 {"n":585,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, north court. direct left open. 5 steps. The badge door stays for the hold."}
 {"n":586,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at Mast yard. Nobody past the north court. We hold in 6 steps. Direct on the left lane, open."}
 {"n":587,"kind":"place","name":"Mast yard north court","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard north court. Bess keeps the badge door for the hold. 7 steps, direct on the left lane, open."}
+{"n":588,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, north court. direct left open. 8 steps. The badge door stays for the hold."}
+{"n":589,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at Last Light. Nobody past the north court. We hold in 2 steps. Direct on the left lane, open."}
+{"n":590,"kind":"place","name":"Last Light north court","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light north court. Matt keeps the badge door for the hold. 3 steps, direct on the left lane, open."}
