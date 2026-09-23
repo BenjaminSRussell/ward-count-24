@@ -348,3 +348,6 @@
 {"n":348,"kind":"place","name":"Switchyard east escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard east escape. Ivo keeps the barrel for the hold. 8 steps, direct on the left lane, open."}
 {"n":349,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, east escape. direct left open. 2 steps. The barrel stays for the hold."}
 {"n":350,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at Switchyard. Nobody past the east escape. We hold in 3 steps. Direct on the left lane, open."}
+{"n":351,"kind":"place","name":"Switchyard east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard east escape. Bess keeps the barrel for the hold. 4 steps, direct on the left lane, open."}
+{"n":352,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, east escape. direct left open. 5 steps. The barrel stays for the hold."}
+{"n":353,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the barrel at Drydock. Nobody past the east escape. We hold in 6 steps. Direct on the left lane, open."}
