@@ -55,3 +55,6 @@
 {"n":55,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the shutter at Ward gate. Nobody past the east escape. We hold in 8 steps. Direct on the left lane, open."}
 {"n":56,"kind":"place","name":"Ward gate east escape","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate east escape. Ivo keeps the shutter for the hold. 2 steps, direct on the left lane, open."}
 {"n":57,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, east escape. direct left open. 3 steps. The shutter stays for the hold."}
+{"n":58,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at Ward gate. Nobody past the east escape. We hold in 4 steps. Direct on the left lane, open."}
+{"n":59,"kind":"place","name":"Ward gate east escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate east escape. Bess keeps the shutter for the hold. 5 steps, direct on the left lane, open."}
+{"n":60,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, east escape. direct left open. 6 steps. The shutter stays for the hold."}
