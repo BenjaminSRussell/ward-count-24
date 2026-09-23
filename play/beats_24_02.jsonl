@@ -171,3 +171,6 @@
 {"n":171,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at High line. Nobody past the south court. We hold in 3 steps. Direct on the left lane, open."}
 {"n":172,"kind":"place","name":"High line south court","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line south court. Ivo keeps the hydrant for the hold. 4 steps, direct on the left lane, open."}
 {"n":173,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south court. direct left open. 5 steps. The hydrant stays for the hold."}
+{"n":174,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at High line. Nobody past the south court. We hold in 6 steps. Direct on the left lane, open."}
+{"n":175,"kind":"place","name":"High line south court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line south court. Bess keeps the hydrant for the hold. 7 steps, direct on the left lane, open."}
+{"n":176,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south court. direct left open. 8 steps. The hydrant stays for the hold."}
