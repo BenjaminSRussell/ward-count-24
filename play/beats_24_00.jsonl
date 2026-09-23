@@ -167,3 +167,6 @@
 {"n":167,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the barrel at Ward gate. Nobody past the north court. We hold in 8 steps. Direct on the left lane, open."}
 {"n":168,"kind":"place","name":"Ward gate north court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Ward gate north court. Ivo keeps the barrel for the hold. 2 steps, direct on the left lane, open."}
 {"n":169,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north court. direct left open. 3 steps. The barrel stays for the hold."}
+{"n":170,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at Ward gate. Nobody past the north court. We hold in 4 steps. Direct on the left lane, open."}
+{"n":171,"kind":"place","name":"Ward gate north court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate north court. Bess keeps the barrel for the hold. 5 steps, direct on the left lane, open."}
+{"n":172,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north court. direct left open. 6 steps. The barrel stays for the hold."}
