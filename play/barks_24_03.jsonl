@@ -528,3 +528,6 @@
 {"n":528,"kind":"place","name":"Ward gate south court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Ward gate south court. Ivo keeps the badge door for the hold. 2 steps, direct on the left lane, open."}
 {"n":529,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south court. direct left open. 3 steps. The badge door stays for the hold."}
 {"n":530,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at Ward gate. Nobody past the south court. We hold in 4 steps. Direct on the left lane, open."}
+{"n":531,"kind":"place","name":"Ward gate south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate south court. Bess keeps the badge door for the hold. 5 steps, direct on the left lane, open."}
+{"n":532,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south court. direct left open. 6 steps. The badge door stays for the hold."}
+{"n":533,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at Kessler alley. Nobody past the south court. We hold in 7 steps. Direct on the left lane, open."}
