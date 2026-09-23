@@ -51,3 +51,6 @@
 {"n":51,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the shutter at Kessler alley. Nobody past the west escape. We hold in 6 steps. Direct on the left lane, open."}
 {"n":52,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley west escape. Ivo keeps the shutter for the hold. 7 steps, direct on the left lane, open."}
 {"n":53,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west escape. direct left open. 8 steps. The shutter stays for the hold."}
+{"n":54,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at Kessler alley. Nobody past the west escape. We hold in 2 steps. Direct on the left lane, open."}
+{"n":55,"kind":"place","name":"Kessler alley west escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley west escape. Bess keeps the shutter for the hold. 3 steps, direct on the left lane, open."}
+{"n":56,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west escape. direct left open. 4 steps. The shutter stays for the hold."}
