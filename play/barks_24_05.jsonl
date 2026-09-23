@@ -934,3 +934,6 @@
 {"n":934,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass east escape. Matt keeps the plywood for the hold. 7 steps, direct on the left lane, open."}
 {"n":935,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east escape. direct left open. 8 steps. The plywood stays for the hold."}
 {"n":936,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the plywood at the Underpass. Nobody past the east escape. We hold in 2 steps. Direct on the left lane, open."}
+{"n":937,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass east escape. Nia keeps the plywood for the hold. 3 steps, direct on the left lane, open."}
+{"n":938,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east escape. direct left open. 4 steps. The plywood stays for the hold."}
+{"n":939,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the plywood at the Underpass. Nobody past the east escape. We hold in 5 steps. Direct on the left lane, open."}
