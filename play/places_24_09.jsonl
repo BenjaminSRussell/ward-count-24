@@ -721,3 +721,6 @@
 {"n":721,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north escape. direct left open. 7 steps. The badge door stays for the hold."}
 {"n":722,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at Drydock. Nobody past the north escape. We hold in 8 steps. Direct on the left lane, open."}
 {"n":723,"kind":"place","name":"Drydock north escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock north escape. Bess keeps the badge door for the hold. 2 steps, direct on the left lane, open."}
+{"n":724,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north escape. direct left open. 3 steps. The badge door stays for the hold."}
+{"n":725,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at High line. Nobody past the north escape. We hold in 4 steps. Direct on the left lane, open."}
+{"n":726,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"High line north escape. Matt keeps the badge door for the hold. 5 steps, direct on the left lane, open."}
