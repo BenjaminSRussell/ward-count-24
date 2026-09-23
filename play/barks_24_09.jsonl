@@ -852,3 +852,6 @@
 {"n":852,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the pier north escape. Ivo keeps the radio coil for the hold. 5 steps, direct on the left lane, open."}
 {"n":853,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north escape. direct left open. 6 steps. The radio coil stays for the hold."}
 {"n":854,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at the pier. Nobody past the north escape. We hold in 7 steps. Direct on the left lane, open."}
+{"n":855,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier north escape. Bess keeps the radio coil for the hold. 8 steps, direct on the left lane, open."}
+{"n":856,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north escape. direct left open. 2 steps. The radio coil stays for the hold."}
+{"n":857,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the radio coil at Clinic roof. Nobody past the north escape. We hold in 3 steps. Direct on the left lane, open."}
