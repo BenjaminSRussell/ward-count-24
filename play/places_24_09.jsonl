@@ -973,3 +973,6 @@
 {"n":973,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south escape. direct left open. 7 steps. The plywood stays for the hold."}
 {"n":974,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at the Underpass. Nobody past the south escape. We hold in 8 steps. Direct on the left lane, open."}
 {"n":975,"kind":"place","name":"the Underpass south escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass south escape. Bess keeps the plywood for the hold. 2 steps, direct on the left lane, open."}
+{"n":976,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south escape. direct left open. 3 steps. The plywood stays for the hold."}
+{"n":977,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at Mast yard. Nobody past the south escape. We hold in 4 steps. Direct on the left lane, open."}
+{"n":978,"kind":"place","name":"Mast yard south escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mast yard south escape. Matt keeps the plywood for the hold. 5 steps, direct on the left lane, open."}
