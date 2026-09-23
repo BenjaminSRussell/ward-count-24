@@ -493,3 +493,6 @@
 {"n":493,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east escape. direct left open. 6 steps. The crate stays for the hold."}
 {"n":494,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the crate at the pier. Nobody past the east escape. We hold in 7 steps. Direct on the left lane, open."}
 {"n":495,"kind":"place","name":"the pier east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the pier east escape. Bess keeps the crate for the hold. 8 steps, direct on the left lane, open."}
+{"n":496,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east escape. direct left open. 2 steps. The crate stays for the hold."}
+{"n":497,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the crate at Clinic roof. Nobody past the east escape. We hold in 3 steps. Direct on the left lane, open."}
+{"n":498,"kind":"place","name":"Clinic roof east escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Clinic roof east escape. Matt keeps the crate for the hold. 4 steps, direct on the left lane, open."}
