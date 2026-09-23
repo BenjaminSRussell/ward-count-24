@@ -873,3 +873,6 @@
 {"n":873,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south court. direct left open. 6 steps. The plywood stays for the hold."}
 {"n":874,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at the Lot. Nobody past the south court. We hold in 7 steps. Direct on the left lane, open."}
 {"n":875,"kind":"place","name":"the Lot south court","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot south court. Bess keeps the plywood for the hold. 8 steps, direct on the left lane, open."}
+{"n":876,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south court. direct left open. 2 steps. The plywood stays for the hold."}
+{"n":877,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at Stockyard fence. Nobody past the south court. We hold in 3 steps. Direct on the left lane, open."}
+{"n":878,"kind":"place","name":"Stockyard fence south court","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Stockyard fence south court. Matt keeps the plywood for the hold. 4 steps, direct on the left lane, open."}
