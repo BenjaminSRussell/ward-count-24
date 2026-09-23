@@ -465,3 +465,6 @@
 {"n":465,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east escape. direct left open. 5 steps. The drum stays for the hold."}
 {"n":466,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Mast yard. Nobody past the east escape. We hold in 6 steps. Direct on the left lane, open."}
 {"n":467,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard east escape. Bess keeps the drum for the hold. 7 steps, direct on the left lane, open."}
+{"n":468,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east escape. direct left open. 8 steps. The drum stays for the hold."}
+{"n":469,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the drum at Last Light. Nobody past the east escape. We hold in 2 steps. Direct on the left lane, open."}
+{"n":470,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light east escape. Matt keeps the drum for the hold. 3 steps, direct on the left lane, open."}
