@@ -418,3 +418,6 @@
 {"n":418,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, north escape. direct left open. 5 steps. The drum stays for the hold."}
 {"n":419,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at Kessler alley. Nobody past the north escape. We hold in 6 steps. Direct on the left lane, open."}
 {"n":420,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Kessler alley north escape. Ivo keeps the drum for the hold. 7 steps, direct on the left lane, open."}
+{"n":421,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, north escape. direct left open. 8 steps. The drum stays for the hold."}
+{"n":422,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at Kessler alley. Nobody past the north escape. We hold in 2 steps. Direct on the left lane, open."}
+{"n":423,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley north escape. Bess keeps the drum for the hold. 3 steps, direct on the left lane, open."}
