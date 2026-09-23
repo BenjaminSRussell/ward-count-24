@@ -14,3 +14,6 @@
 {"n":14,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south court. direct left open. 7 steps. The hydrant stays for the hold."}
 {"n":15,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at Ward gate. Nobody past the south court. We hold in 8 steps. Direct on the left lane, open."}
 {"n":16,"kind":"place","name":"Ward gate south court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate south court. Ivo keeps the hydrant for the hold. 2 steps, direct on the left lane, open."}
+{"n":17,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south court. direct left open. 3 steps. The hydrant stays for the hold."}
+{"n":18,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Ward gate. Nobody past the south court. We hold in 4 steps. Direct on the left lane, open."}
+{"n":19,"kind":"place","name":"Ward gate south court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate south court. Bess keeps the hydrant for the hold. 5 steps, direct on the left lane, open."}
