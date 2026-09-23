@@ -191,3 +191,6 @@
 {"n":191,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the hydrant at Drydock. Nobody past the east escape. We hold in 5 steps. Direct on the left lane, open."}
 {"n":192,"kind":"place","name":"Drydock east escape","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Drydock east escape. Ivo keeps the hydrant for the hold. 6 steps, direct on the left lane, open."}
 {"n":193,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east escape. direct left open. 7 steps. The hydrant stays for the hold."}
+{"n":194,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Drydock. Nobody past the east escape. We hold in 8 steps. Direct on the left lane, open."}
+{"n":195,"kind":"place","name":"Drydock east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Drydock east escape. Bess keeps the hydrant for the hold. 2 steps, direct on the left lane, open."}
+{"n":196,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east escape. direct left open. 3 steps. The hydrant stays for the hold."}
