@@ -808,3 +808,6 @@
 {"n":808,"kind":"place","name":"Clinic roof south court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Clinic roof south court. Ivo keeps the rebar for the hold. 3 steps, direct on the left lane, open."}
 {"n":809,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south court. direct left open. 4 steps. The rebar stays for the hold."}
 {"n":810,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at Clinic roof. Nobody past the south court. We hold in 5 steps. Direct on the left lane, open."}
+{"n":811,"kind":"place","name":"Clinic roof south court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Clinic roof south court. Bess keeps the rebar for the hold. 6 steps, direct on the left lane, open."}
+{"n":812,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south court. direct left open. 7 steps. The rebar stays for the hold."}
+{"n":813,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rebar at Switchyard. Nobody past the south court. We hold in 8 steps. Direct on the left lane, open."}
