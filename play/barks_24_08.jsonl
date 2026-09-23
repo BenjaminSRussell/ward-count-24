@@ -868,3 +868,6 @@
 {"n":868,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard north escape. Ivo keeps the rebar for the hold. 8 steps, direct on the left lane, open."}
 {"n":869,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north escape. direct left open. 2 steps. The rebar stays for the hold."}
 {"n":870,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at Switchyard. Nobody past the north escape. We hold in 3 steps. Direct on the left lane, open."}
+{"n":871,"kind":"place","name":"Switchyard north escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard north escape. Bess keeps the rebar for the hold. 4 steps, direct on the left lane, open."}
+{"n":872,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north escape. direct left open. 5 steps. The rebar stays for the hold."}
+{"n":873,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rebar at Drydock. Nobody past the north escape. We hold in 6 steps. Direct on the left lane, open."}
