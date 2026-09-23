@@ -62,3 +62,6 @@
 {"n":62,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at Stockyard fence. Nobody past the south court. We hold in 5 steps. Direct on the left lane, open."}
 {"n":63,"kind":"place","name":"Stockyard fence south court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Stockyard fence south court. Bess keeps the shutter for the hold. 6 steps, direct on the left lane, open."}
 {"n":64,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south court. direct left open. 7 steps. The shutter stays for the hold."}
+{"n":65,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the shutter at Mall court. Nobody past the south court. We hold in 8 steps. Direct on the left lane, open."}
+{"n":66,"kind":"place","name":"Mall court south court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mall court south court. Matt keeps the shutter for the hold. 2 steps, direct on the left lane, open."}
+{"n":67,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, south court. direct left open. 3 steps. The shutter stays for the hold."}
