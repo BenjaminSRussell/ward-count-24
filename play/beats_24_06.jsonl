@@ -743,3 +743,6 @@
 {"n":743,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rebar at the Lot. Nobody past the east escape. We hold in 4 steps. Direct on the left lane, open."}
 {"n":744,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot east escape. Ivo keeps the rebar for the hold. 5 steps, direct on the left lane, open."}
 {"n":745,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east escape. direct left open. 6 steps. The rebar stays for the hold."}
+{"n":746,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at the Lot. Nobody past the east escape. We hold in 7 steps. Direct on the left lane, open."}
+{"n":747,"kind":"place","name":"the Lot east escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot east escape. Bess keeps the rebar for the hold. 8 steps, direct on the left lane, open."}
+{"n":748,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, east escape. direct left open. 2 steps. The rebar stays for the hold."}
