@@ -714,3 +714,6 @@
 {"n":714,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, north court. direct left open. 8 steps. The radio coil stays for the hold."}
 {"n":715,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the radio coil at Stockyard fence. Nobody past the north court. We hold in 2 steps. Direct on the left lane, open."}
 {"n":716,"kind":"place","name":"Stockyard fence north court","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence north court. Ivo keeps the radio coil for the hold. 3 steps, direct on the left lane, open."}
+{"n":717,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north court. direct left open. 4 steps. The radio coil stays for the hold."}
+{"n":718,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the radio coil at Stockyard fence. Nobody past the north court. We hold in 5 steps. Direct on the left lane, open."}
+{"n":719,"kind":"place","name":"Stockyard fence north court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Stockyard fence north court. Bess keeps the radio coil for the hold. 6 steps, direct on the left lane, open."}
