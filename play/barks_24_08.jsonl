@@ -388,3 +388,6 @@
 {"n":388,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line north escape. Ivo keeps the barrel for the hold. 4 steps, direct on the left lane, open."}
 {"n":389,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north escape. direct left open. 5 steps. The barrel stays for the hold."}
 {"n":390,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at High line. Nobody past the north escape. We hold in 6 steps. Direct on the left lane, open."}
+{"n":391,"kind":"place","name":"High line north escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line north escape. Bess keeps the barrel for the hold. 7 steps, direct on the left lane, open."}
+{"n":392,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north escape. direct left open. 8 steps. The barrel stays for the hold."}
+{"n":393,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the crate at Ward gate. Nobody past the north escape. We hold in 2 steps. Direct on the left lane, open."}
