@@ -348,3 +348,6 @@
 {"n":348,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier north escape. Ivo keeps the awning for the hold. 5 steps, direct on the left lane, open."}
 {"n":349,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north escape. direct left open. 6 steps. The awning stays for the hold."}
 {"n":350,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the awning at the pier. Nobody past the north escape. We hold in 7 steps. Direct on the left lane, open."}
+{"n":351,"kind":"place","name":"the pier north escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier north escape. Bess keeps the awning for the hold. 8 steps, direct on the left lane, open."}
+{"n":352,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north escape. direct left open. 2 steps. The awning stays for the hold."}
+{"n":353,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the awning at Clinic roof. Nobody past the north escape. We hold in 3 steps. Direct on the left lane, open."}
