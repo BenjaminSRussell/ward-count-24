@@ -414,3 +414,6 @@
 {"n":414,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence east escape. Matt keeps the crate for the hold. 4 steps, direct on the left lane, open."}
 {"n":415,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east escape. direct left open. 5 steps. The crate stays for the hold."}
 {"n":416,"kind":"bark","speaker":"Lis","moment":"hold","line":"Lis: Hold the crate at Stockyard fence. Nobody past the east escape. We hold in 6 steps. Direct on the left lane, open."}
+{"n":417,"kind":"place","name":"Stockyard fence east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence east escape. Nia keeps the crate for the hold. 7 steps, direct on the left lane, open."}
+{"n":418,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east escape. direct left open. 8 steps. The crate stays for the hold."}
+{"n":419,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the crate at Stockyard fence. Nobody past the east escape. We hold in 2 steps. Direct on the left lane, open."}
