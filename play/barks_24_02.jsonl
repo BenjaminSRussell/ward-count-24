@@ -1,3 +1,6 @@
 {"n":1,"kind":"place","name":"High line south court","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"High line south court. Nia keeps the plywood for the hold. 8 steps, direct on the left lane, open."}
 {"n":2,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south court. direct left open. 2 steps. The plywood stays for the hold."}
 {"n":3,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the plywood at High line. Nobody past the south court. We hold in 3 steps. Direct on the left lane, open."}
+{"n":4,"kind":"place","name":"High line south court","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line south court. Ivo keeps the plywood for the hold. 4 steps, direct on the left lane, open."}
+{"n":5,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south court. direct left open. 5 steps. The plywood stays for the hold."}
+{"n":6,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at High line. Nobody past the south court. We hold in 6 steps. Direct on the left lane, open."}
