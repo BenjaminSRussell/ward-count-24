@@ -141,3 +141,6 @@
 {"n":141,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north court. direct left open. 2 steps. The shutter stays for the hold."}
 {"n":142,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the shutter at Switchyard. Nobody past the north court. We hold in 3 steps. Direct on the left lane, open."}
 {"n":143,"kind":"place","name":"Switchyard north court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard north court. Bess keeps the shutter for the hold. 4 steps, direct on the left lane, open."}
+{"n":144,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north court. direct left open. 5 steps. The shutter stays for the hold."}
+{"n":145,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the shutter at Drydock. Nobody past the north court. We hold in 6 steps. Direct on the left lane, open."}
+{"n":146,"kind":"place","name":"Drydock north court","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock north court. Matt keeps the shutter for the hold. 7 steps, direct on the left lane, open."}
