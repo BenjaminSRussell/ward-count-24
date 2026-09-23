@@ -898,3 +898,6 @@
 {"n":898,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the plywood at Ward gate. Nobody past the north escape. We hold in 4 steps. Direct on the left lane, open."}
 {"n":899,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate north escape. Bess keeps the plywood for the hold. 5 steps, direct on the left lane, open."}
 {"n":900,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north escape. direct left open. 6 steps. The plywood stays for the hold."}
+{"n":901,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the plywood at Kessler alley. Nobody past the north escape. We hold in 7 steps. Direct on the left lane, open."}
+{"n":902,"kind":"place","name":"Kessler alley north escape","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley north escape. Matt keeps the plywood for the hold. 8 steps, direct on the left lane, open."}
+{"n":903,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, north escape. direct left open. 2 steps. The plywood stays for the hold."}
