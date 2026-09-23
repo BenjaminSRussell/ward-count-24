@@ -697,3 +697,6 @@
 {"n":697,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north court. direct left open. 6 steps. The rebar stays for the hold."}
 {"n":698,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at the Lot. Nobody past the north court. We hold in 7 steps. Direct on the left lane, open."}
 {"n":699,"kind":"place","name":"the Lot north court","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Lot north court. Bess keeps the rebar for the hold. 8 steps, direct on the left lane, open."}
+{"n":700,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north court. direct left open. 2 steps. The rebar stays for the hold."}
+{"n":701,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the rebar at Stockyard fence. Nobody past the north court. We hold in 3 steps. Direct on the left lane, open."}
+{"n":702,"kind":"place","name":"Stockyard fence north court","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence north court. Matt keeps the rebar for the hold. 4 steps, direct on the left lane, open."}
