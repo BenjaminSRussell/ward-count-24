@@ -634,3 +634,6 @@
 {"n":634,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the badge door at Mast yard. Nobody past the east escape. We hold in 6 steps. Direct on the left lane, open."}
 {"n":635,"kind":"place","name":"Mast yard east escape","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard east escape. Bess keeps the badge door for the hold. 7 steps, direct on the left lane, open."}
 {"n":636,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east escape. direct left open. 8 steps. The badge door stays for the hold."}
+{"n":637,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the badge door at Last Light. Nobody past the east escape. We hold in 2 steps. Direct on the left lane, open."}
+{"n":638,"kind":"place","name":"Last Light east escape","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Last Light east escape. Matt keeps the badge door for the hold. 3 steps, direct on the left lane, open."}
+{"n":639,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east escape. direct left open. 4 steps. The badge door stays for the hold."}
