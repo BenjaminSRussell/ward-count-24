@@ -605,3 +605,6 @@
 {"n":605,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north escape. direct left open. 4 steps. The lamp stays for the hold."}
 {"n":606,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at Stockyard fence. Nobody past the north escape. We hold in 5 steps. Direct on the left lane, open."}
 {"n":607,"kind":"place","name":"Stockyard fence north escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Stockyard fence north escape. Bess keeps the lamp for the hold. 6 steps, direct on the left lane, open."}
+{"n":608,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north escape. direct left open. 7 steps. The lamp stays for the hold."}
+{"n":609,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the lamp at Mall court. Nobody past the north escape. We hold in 8 steps. Direct on the left lane, open."}
+{"n":610,"kind":"place","name":"Mall court north escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mall court north escape. Matt keeps the lamp for the hold. 2 steps, direct on the left lane, open."}
