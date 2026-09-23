@@ -865,3 +865,6 @@
 {"n":865,"kind":"place","name":"Kessler alley south court","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley south court. Nia keeps the rope for the hold. 4 steps, direct on the left lane, open."}
 {"n":866,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, south court. direct left open. 5 steps. The rope stays for the hold."}
 {"n":867,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rope at Kessler alley. Nobody past the south court. We hold in 6 steps. Direct on the left lane, open."}
+{"n":868,"kind":"place","name":"Kessler alley south court","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Kessler alley south court. Ivo keeps the rope for the hold. 7 steps, direct on the left lane, open."}
+{"n":869,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south court. direct left open. 8 steps. The rope stays for the hold."}
+{"n":870,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at Kessler alley. Nobody past the south court. We hold in 2 steps. Direct on the left lane, open."}
