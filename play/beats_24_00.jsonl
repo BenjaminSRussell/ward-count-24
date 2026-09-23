@@ -650,3 +650,6 @@
 {"n":650,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the lamp at Drydock. Nobody past the north court. We hold in 8 steps. Direct on the left lane, open."}
 {"n":651,"kind":"place","name":"Drydock north court","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock north court. Bess keeps the lamp for the hold. 2 steps, direct on the left lane, open."}
 {"n":652,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north court. direct left open. 3 steps. The lamp stays for the hold."}
+{"n":653,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the lamp at High line. Nobody past the north court. We hold in 4 steps. Direct on the left lane, open."}
+{"n":654,"kind":"place","name":"High line north court","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line north court. Matt keeps the lamp for the hold. 5 steps, direct on the left lane, open."}
+{"n":655,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, north court. direct left open. 6 steps. The lamp stays for the hold."}
