@@ -901,3 +901,6 @@
 {"n":901,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Ward gate north escape. Nia keeps the rope for the hold. 6 steps, direct on the left lane, open."}
 {"n":902,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, north escape. direct left open. 7 steps. The rope stays for the hold."}
 {"n":903,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rope at Ward gate. Nobody past the north escape. We hold in 8 steps. Direct on the left lane, open."}
+{"n":904,"kind":"place","name":"Ward gate north escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Ward gate north escape. Ivo keeps the rope for the hold. 2 steps, direct on the left lane, open."}
+{"n":905,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north escape. direct left open. 3 steps. The rope stays for the hold."}
+{"n":906,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rope at Ward gate. Nobody past the north escape. We hold in 4 steps. Direct on the left lane, open."}
