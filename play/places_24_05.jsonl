@@ -362,3 +362,6 @@
 {"n":362,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west escape. direct left open. 2 steps. The awning stays for the hold."}
 {"n":363,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the awning at High line. Nobody past the west escape. We hold in 3 steps. Direct on the left lane, open."}
 {"n":364,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line west escape. Ivo keeps the awning for the hold. 4 steps, direct on the left lane, open."}
+{"n":365,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west escape. direct left open. 5 steps. The awning stays for the hold."}
+{"n":366,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the awning at High line. Nobody past the west escape. We hold in 6 steps. Direct on the left lane, open."}
+{"n":367,"kind":"place","name":"High line west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line west escape. Bess keeps the awning for the hold. 7 steps, direct on the left lane, open."}
