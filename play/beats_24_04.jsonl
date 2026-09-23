@@ -166,3 +166,6 @@
 {"n":166,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the hydrant at Switchyard. Nobody past the west escape. We hold in 3 steps. Direct on the left lane, open."}
 {"n":167,"kind":"place","name":"Switchyard west escape","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard west escape. Bess keeps the hydrant for the hold. 4 steps, direct on the left lane, open."}
 {"n":168,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west escape. direct left open. 5 steps. The hydrant stays for the hold."}
+{"n":169,"kind":"bark","speaker":"Sam","moment":"hold","line":"Sam: Hold the hydrant at Drydock. Nobody past the west escape. We hold in 6 steps. Direct on the left lane, open."}
+{"n":170,"kind":"place","name":"Drydock west escape","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock west escape. Matt keeps the hydrant for the hold. 7 steps, direct on the left lane, open."}
+{"n":171,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, west escape. direct left open. 8 steps. The hydrant stays for the hold."}
