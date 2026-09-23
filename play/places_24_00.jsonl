@@ -298,3 +298,6 @@
 {"n":298,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north court. direct left open. 6 steps. The barrel stays for the hold."}
 {"n":299,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the barrel at Switchyard. Nobody past the north court. We hold in 7 steps. Direct on the left lane, open."}
 {"n":300,"kind":"place","name":"Switchyard north court","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard north court. Ivo keeps the barrel for the hold. 8 steps, direct on the left lane, open."}
+{"n":301,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north court. direct left open. 2 steps. The barrel stays for the hold."}
+{"n":302,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the barrel at Switchyard. Nobody past the north court. We hold in 3 steps. Direct on the left lane, open."}
+{"n":303,"kind":"place","name":"Switchyard north court","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard north court. Bess keeps the barrel for the hold. 4 steps, direct on the left lane, open."}
