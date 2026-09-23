@@ -547,3 +547,6 @@
 {"n":547,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the drum at High line. Nobody past the east escape. We hold in 3 steps. Direct on the left lane, open."}
 {"n":548,"kind":"place","name":"High line east escape","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line east escape. Ivo keeps the drum for the hold. 4 steps, direct on the left lane, open."}
 {"n":549,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east escape. direct left open. 5 steps. The drum stays for the hold."}
+{"n":550,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the drum at High line. Nobody past the east escape. We hold in 6 steps. Direct on the left lane, open."}
+{"n":551,"kind":"place","name":"High line east escape","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line east escape. Bess keeps the drum for the hold. 7 steps, direct on the left lane, open."}
+{"n":552,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east escape. direct left open. 8 steps. The drum stays for the hold."}
