@@ -777,3 +777,6 @@
 {"n":777,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass east escape. Nia keeps the rebar for the hold. 3 steps, direct on the left lane, open."}
 {"n":778,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east escape. direct left open. 4 steps. The rebar stays for the hold."}
 {"n":779,"kind":"bark","speaker":"June","moment":"hold","line":"June: Hold the rebar at the Underpass. Nobody past the east escape. We hold in 5 steps. Direct on the left lane, open."}
+{"n":780,"kind":"place","name":"the Underpass east escape","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass east escape. Ivo keeps the rebar for the hold. 6 steps, direct on the left lane, open."}
+{"n":781,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east escape. direct left open. 7 steps. The rebar stays for the hold."}
+{"n":782,"kind":"bark","speaker":"Ada","moment":"hold","line":"Ada: Hold the rebar at the Underpass. Nobody past the east escape. We hold in 8 steps. Direct on the left lane, open."}
